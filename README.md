@@ -1,5 +1,9 @@
 # Lung Cancer Dashboard
 
+## Aperçu / Preview
+
+![Dashboard Lung Cancer](dashboard_cp.png)
+
 ## Application en ligne / Live App
 
 **[Accéder au dashboard / Open dashboard](https://hippy26.shinyapps.io/lungcancer)**

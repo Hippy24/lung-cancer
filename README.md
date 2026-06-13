@@ -45,12 +45,3 @@ Le navigateur s'ouvre automatiquement sur `http://127.0.0.1:PORT`
 - Table interactive filtrée (tous les filtres de l'onglet 1)
 - Bouton export CSV
 
-## Structure des fichiers
-
-```
-shiny_app/
-├── ui.R                    # Interface utilisateur
-├── server.R                # Logique serveur
-├── lung_cancer_dataset.csv # Données (à placer ici)
-└── README.md
-```

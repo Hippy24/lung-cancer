@@ -171,7 +171,7 @@ i18n <- list(
   )
 )
 
-# ── CSS clair ─────────────────────────────────────────────────
+# ── Mode clair de la page ─────────────────────────────────────────────────
 css_light <- "
   body {
     background-color: #F8F9FA !important;
@@ -215,7 +215,7 @@ css_light <- "
   .tab-link.active { opacity:1; border-bottom:2px solid #fff; font-weight:600; }
 "
 
-# ── CSS sombre ────────────────────────────────────────────────
+# ── Mode sombre de la page ────────────────────────────────────────────────
 css_dark <- "
   body {
     background-color: #0F1923 !important;

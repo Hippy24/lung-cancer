@@ -1,4 +1,8 @@
-# Lung Cancer Dashboard – R Shiny
+# Lung Cancer Dashboard
+
+## Application en ligne / Live App
+
+**[Accéder au dashboard / Open dashboard](https://hippy26.shinyapps.io/lungcancer)**
 
 ## Prérequis
 
